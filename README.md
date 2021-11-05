@@ -1,2 +1,8 @@
-# country_carrier
- Can track the country name and carrier name
+# Country and Service Provider Tracker
+ Can track the country name and carrier(service provider) name
+
+
+## Run
+
+    `python main.py`
+- enter your number with country code in test.py
